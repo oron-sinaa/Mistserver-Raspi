@@ -14,6 +14,6 @@
 >
 > Install ffmpeg,
 >
-> Build docker image,
+> Build Mistserver docker image,
 >
 > Start Mistserver.
